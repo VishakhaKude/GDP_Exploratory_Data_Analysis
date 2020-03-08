@@ -17,5 +17,5 @@ Summary on EDA performed:
 
 5) Correlation in Education drop out rate  against GDP Per capita
 
-6)Highlights and Recommendations. 
+6) Highlights and Recommendations. 
 
